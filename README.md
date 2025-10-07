@@ -1,4 +1,4 @@
-# 🚀 My New Project – Responsive Web Layout  
+# 🚀 My New Project – Resturant Website
 
 This is my **new web project** created as part of my web development learning journey at **SMIT (Saylani Mass IT Training)**.  
 The project is built using **HTML5**, **CSS3**, and **CSS Grid Layout**, focusing on **modern design, clean structure, and responsive layout techniques**.
